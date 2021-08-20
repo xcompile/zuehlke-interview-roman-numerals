@@ -1,7 +1,6 @@
-# Tasks
+\#zuehlke \#coding-challenge \#senior-software-engineer
 
-
-Repository presenting examples for Zuehlke coding interviews for Senior Engineer.
+This repository is presenting examples for Zuehlke coding interviews for Senior Engineer.
 In a pair programming interview you are given the chance to solve an algorithmic challenge.
 The challenge is not difficult but approaching it correctly is important.
 
